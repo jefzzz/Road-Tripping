@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 6030c9d4a2dbbb549bbe7377e77e3711
+timeCreated: 1495952509
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Plane
+    100004: Plane_317_Plane_150_bottom
+    100006: Plane_317_Plane_150_car
+    100008: Plane_317_Plane_150_carbrake
+    100010: Plane_317_Plane_150_carhead
+    100012: Plane_317_Plane_150_cartire
+    100014: Plane_317_Plane_150_carwindow
+    100016: Plane_317_Plane_150_detail
+    100018: Plane_317_Plane_150_rim
+    100020: 2x2_long_0m
+    100022: 2x2_long_0m_001
+    100024: BezierCurve
+    100026: BezierCurve_001
+    100028: Plane_001
+    100030: Plane_002
+    100032: Plane_003
+    400000: //RootNode
+    400002: Plane
+    400004: Plane_317_Plane_150_bottom
+    400006: Plane_317_Plane_150_car
+    400008: Plane_317_Plane_150_carbrake
+    400010: Plane_317_Plane_150_carhead
+    400012: Plane_317_Plane_150_cartire
+    400014: Plane_317_Plane_150_carwindow
+    400016: Plane_317_Plane_150_detail
+    400018: Plane_317_Plane_150_rim
+    400020: 2x2_long_0m
+    400022: 2x2_long_0m_001
+    400024: BezierCurve
+    400026: BezierCurve_001
+    400028: Plane_001
+    400030: Plane_002
+    400032: Plane_003
+    2300000: //RootNode
+    2300002: Plane
+    2300004: Plane_317_Plane_150_bottom
+    2300006: Plane_317_Plane_150_car
+    2300008: Plane_317_Plane_150_carbrake
+    2300010: Plane_317_Plane_150_carhead
+    2300012: Plane_317_Plane_150_cartire
+    2300014: Plane_317_Plane_150_carwindow
+    2300016: Plane_317_Plane_150_detail
+    2300018: Plane_317_Plane_150_rim
+    2300020: 2x2_long_0m
+    2300022: 2x2_long_0m_001
+    2300024: BezierCurve
+    2300026: BezierCurve_001
+    2300028: Plane_001
+    2300030: Plane_002
+    2300032: Plane_003
+    3300000: //RootNode
+    3300002: Plane
+    3300004: Plane_317_Plane_150_bottom
+    3300006: Plane_317_Plane_150_car
+    3300008: Plane_317_Plane_150_carbrake
+    3300010: Plane_317_Plane_150_carhead
+    3300012: Plane_317_Plane_150_cartire
+    3300014: Plane_317_Plane_150_carwindow
+    3300016: Plane_317_Plane_150_detail
+    3300018: Plane_317_Plane_150_rim
+    3300020: 2x2_long_0m
+    3300022: 2x2_long_0m_001
+    3300024: BezierCurve
+    3300026: BezierCurve_001
+    3300028: Plane_001
+    3300030: Plane_002
+    3300032: Plane_003
+    4300000: Plane
+    4300002: Plane_317_Plane_150_carbrake
+    4300004: Plane_317_Plane_150_bottom
+    4300006: Plane_317_Plane_150_carwindow
+    4300008: Plane_317_Plane_150_detail
+    4300010: Plane_317_Plane_150_car
+    4300012: Plane_317_Plane_150_rim
+    4300014: Plane_317_Plane_150_carhead
+    4300016: Plane_317_Plane_150_cartire
+    4300018: Plane_001
+    4300020: BezierCurve
+    4300022: 2x2_long_0m
+    4300024: Plane_002
+    4300026: BezierCurve_001
+    4300028: 2x2_long_0m_001
+    4300030: Plane_003
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
